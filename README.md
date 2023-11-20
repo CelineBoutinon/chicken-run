@@ -44,7 +44,6 @@ La Poule qui Chante est une entreprise française d’agroalimentaire specialis�
 * Python 3.9.13
   * matplotlib 3.6.2
   * missingno 0.5.1
-  * mlxtend 0.21.0
   * numpy 1.24.1
   * pandas 1.5.2
   * plotly 5.14.1
