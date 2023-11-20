@@ -1,4 +1,5 @@
-![Alt text](logo-1.PNG)
+![logo](https://github.com/CelineBoutinon/chicken-run/assets/143210563/4ee62da4-0ec7-4a96-8a34-c92366b12c1e)
+
 
 
 # REALISER UNE ETUDE DE MARCHE AVEC PYTHON
