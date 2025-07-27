@@ -4,7 +4,7 @@
 
 # REALISER UNE ETUDE DE MARCHE AVEC PYTHON
 
-Projet realisé en mai 2023 dans le cadre de ma formation Data Analyst avec OpenClassrooms.
+Projet realisé en mai 2023 dans le cadre de ma formation Data Analyst avec l'ENSAE-ENSAI Formation Continue (Cepe)/OpenClassrooms.
 
 ## Objectif du projet
 
